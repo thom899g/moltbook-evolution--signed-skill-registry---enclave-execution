@@ -1,0 +1,19 @@
+# Core Dependencies
+firebase-admin==6.4.0
+cryptography==42.0.5
+wasmer==3.0.1
+wasmer-compiler-cranelift==3.0.1
+networkx==3.2.1
+pydantic==2.5.3
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Monitoring & Utilities
+psutil==5.9.7
+pysyncobj==0.3.14
+google-cloud-firestore==2.13.1
+
+# Development
+pytest==7.4.3
+black==23.12.1
+mypy==1.8.0
